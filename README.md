@@ -1,1 +1,1 @@
-# Hellp Welcome to Reed's world.
+# Hello Welcome to Reed's world.
